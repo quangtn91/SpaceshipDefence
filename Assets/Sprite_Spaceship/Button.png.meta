@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 4a1716d018e641647a2c33b88734a942
+timeCreated: 1455354780
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: normal_big
+    21300002: hover_big
+    21300004: click_big
+    21300006: lock_big
+    21300008: normal_small
+    21300010: hover_small
+    21300012: click_small
+    21300014: lock_small
+    21300016: lock
+    21300018: Button_35
+    21300020: play_normal
+    21300022: play_click
+    21300024: home_normal
+    21300026: home_click
+    21300028: exit_normal
+    21300030: exit_click
+    21300032: save_normal
+    21300034: save_click
+    21300036: pause_normal
+    21300038: pause_click
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: normal_big
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2413
+        width: 429
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.94485, y: 50.50049}
+        - {x: -109.94485, y: 47.50049}
+        - {x: -109.94485, y: -38.49951}
+        - {x: -100.94485, y: -49.49951}
+        - {x: 102.05515, y: -49.49951}
+        - {x: 111.05515, y: -39.49951}
+        - {x: 111.05515, y: 28.500488}
+        - {x: 102.05515, y: 50.50049}
+    - name: hover_big
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2413
+        width: 429
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.95242, y: 50.50049}
+        - {x: -109.95242, y: 47.50049}
+        - {x: -109.95242, y: -45.49951}
+        - {x: -107.95242, y: -49.49951}
+        - {x: 111.04758, y: -49.49951}
+        - {x: 111.04758, y: 42.50049}
+        - {x: 102.04758, y: 50.50049}
+    - name: click_big
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2413
+        width: 429
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.01599, y: 50.50049}
+        - {x: -106.98401, y: 50.50049}
+        - {x: -109.98401, y: 49.50049}
+        - {x: -109.98401, y: -43.49951}
+        - {x: -108.98401, y: -49.49951}
+        - {x: 105.01599, y: -49.49951}
+        - {x: 111.01599, y: -47.49951}
+        - {x: 111.01599, y: 38.50049}
+    - name: lock_big
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2413
+        width: 429
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.99158, y: 50.50049}
+        - {x: -109.99158, y: 45.50049}
+        - {x: -109.99158, y: -49.49951}
+        - {x: 111.00842, y: -49.49951}
+        - {x: 111.00842, y: 48.50049}
+        - {x: 106.00842, y: 50.50049}
+    - name: normal_small
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2177
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.437927, y: 50.664185}
+        - {x: -47.437927, y: -49.335815}
+        - {x: 44.562073, y: -49.335815}
+        - {x: 48.562073, y: -42.335815}
+        - {x: 48.562073, y: 48.664185}
+        - {x: 41.562073, y: 50.664185}
+    - name: hover_small
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2177
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.40204, y: 50.664185}
+        - {x: -47.40204, y: 47.664185}
+        - {x: -47.40204, y: -49.335815}
+        - {x: 42.59796, y: -49.335815}
+        - {x: 48.59796, y: -48.335815}
+        - {x: 48.59796, y: 50.664185}
+    - name: click_small
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2177
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.36615, y: 50.664185}
+        - {x: -47.36615, y: -39.335815}
+        - {x: -44.36615, y: -49.335815}
+        - {x: 41.63385, y: -49.335815}
+        - {x: 48.63385, y: -41.335815}
+        - {x: 48.63385, y: 37.664185}
+        - {x: 45.63385, y: 50.664185}
+    - name: lock_small
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2177
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.342285, y: 50.664185}
+        - {x: -47.342285, y: 47.664185}
+        - {x: -47.342285, y: -49.335815}
+        - {x: 41.657715, y: -49.335815}
+        - {x: 47.657715, y: -47.335815}
+        - {x: 47.657715, y: 46.664185}
+        - {x: 37.657715, y: 50.664185}
+    - name: lock
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 2177
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.830444, y: 50.664185}
+        - {x: -47.830444, y: 45.664185}
+        - {x: -47.830444, y: -45.335815}
+        - {x: -43.830444, y: -49.335815}
+        - {x: 39.169556, y: -49.335815}
+        - {x: 48.169556, y: -45.335815}
+        - {x: 48.169556, y: 30.664185}
+        - {x: 43.169556, y: 50.664185}
+    - name: play_normal
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1872
+        width: 184
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.144386, y: 50.998535}
+        - {x: -47.144386, y: -50.001465}
+        - {x: 43.855614, y: -50.001465}
+        - {x: 47.855614, y: -49.001465}
+        - {x: 47.855614, y: 43.998535}
+        - {x: 31.855614, y: 50.998535}
+    - name: play_click
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1872
+        width: 186
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.740875, y: 50.998535}
+        - {x: -47.740875, y: 45.998535}
+        - {x: -47.740875, y: -44.001465}
+        - {x: -44.740875, y: -50.001465}
+        - {x: 48.259125, y: -50.001465}
+        - {x: 48.259125, y: 40.998535}
+        - {x: 39.259125, y: 50.998535}
+    - name: home_normal
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1872
+        width: 184
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.286987, y: 50.998535}
+        - {x: -47.286987, y: -50.001465}
+        - {x: 47.713013, y: -50.001465}
+        - {x: 47.713013, y: 50.998535}
+    - name: home_click
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1872
+        width: 186
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.116577, y: 50.998535}
+        - {x: -45.883423, y: 50.998535}
+        - {x: -47.883423, y: 37.998535}
+        - {x: -47.883423, y: -35.001465}
+        - {x: -42.883423, y: -50.001465}
+        - {x: 42.116577, y: -50.001465}
+        - {x: 48.116577, y: -37.001465}
+        - {x: 48.116577, y: 32.998535}
+        - {x: 46.116577, y: 43.998535}
+    - name: exit_normal
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1437
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.72046, y: 50.770508}
+        - {x: -47.72046, y: -39.229492}
+        - {x: -45.72046, y: -49.229492}
+        - {x: 44.27954, y: -49.229492}
+        - {x: 48.27954, y: -48.229492}
+        - {x: 48.27954, y: 48.770508}
+        - {x: 45.27954, y: 50.770508}
+    - name: exit_click
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1437
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.707153, y: 50.770508}
+        - {x: -42.292847, y: 50.770508}
+        - {x: -47.292847, y: 39.770508}
+        - {x: -47.292847, y: -34.229492}
+        - {x: -42.292847, y: -49.229492}
+        - {x: 37.707153, y: -49.229492}
+        - {x: 40.707153, y: -47.229492}
+        - {x: 47.707153, y: -41.229492}
+        - {x: 47.707153, y: 43.770508}
+    - name: save_normal
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1220
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.27954, y: 50.662476}
+        - {x: -47.72046, y: 50.662476}
+        - {x: -47.72046, y: -40.337524}
+        - {x: -41.72046, y: -49.337524}
+        - {x: 38.27954, y: -49.337524}
+        - {x: 48.27954, y: -42.337524}
+        - {x: 48.27954, y: 34.662476}
+    - name: save_click
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1220
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.292847, y: 50.662476}
+        - {x: -47.292847, y: -49.337524}
+        - {x: 47.707153, y: -49.337524}
+        - {x: 47.707153, y: 50.662476}
+    - name: pause_normal
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 565
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.144386, y: 50.290405}
+        - {x: -47.144386, y: 48.290405}
+        - {x: -47.144386, y: -41.709595}
+        - {x: -43.144386, y: -49.709595}
+        - {x: 42.855614, y: -49.709595}
+        - {x: 47.855614, y: -36.709595}
+        - {x: 47.855614, y: 47.290405}
+        - {x: 37.855614, y: 50.290405}
+    - name: pause_click
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 565
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.740875, y: 50.290405}
+        - {x: -47.740875, y: 41.290405}
+        - {x: -47.740875, y: -34.709595}
+        - {x: -41.740875, y: -49.709595}
+        - {x: 48.259125, y: -49.709595}
+        - {x: 48.259125, y: 43.290405}
+        - {x: 36.259125, y: 50.290405}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
